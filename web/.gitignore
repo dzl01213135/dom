@@ -6,6 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 /test/e2e/reports/
 selenium-debug.log
+node_modules/ 
+jspm_packages/
+
+---------------------
+jspm_packages/
+
+---------------------
 
 # Editor directories and files
 .idea
